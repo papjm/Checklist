@@ -1,1 +1,3 @@
-1.add authenticated endpoint to unauthenticated endpoint:   e.g login.aspx/config.aspx
+1. add authenticated endpoint to unauthenticated endpoint:   e.g login.aspx/config.aspx
+
+2. try authenticated endpoint and if redirect change status code to 200 and remove the location header and redirect body if any
