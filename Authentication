@@ -3,3 +3,5 @@
 2. try authenticated endpoint and if redirect change status code to 200 and remove the location header and redirect body if any
 
 3. try cross domain cookie reuse 
+
+4. find other apps using thesame third party and try same endpoints on your target
